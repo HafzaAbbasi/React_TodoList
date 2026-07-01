@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.bottom-shadow {
+  box-shadow: 0px 8px 20px 0px rgba(99, 102, 241, 0.6),
+               8px 8px 20px rgba(168, 85, 247, 0.6);
+}
+
+.inner-shadow {
+  box-shadow: inset 0px 4px 10px rgba(168, 85, 247, 0.5);
+}
